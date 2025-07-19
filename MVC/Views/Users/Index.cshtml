@@ -1,0 +1,116 @@
+﻿@model IEnumerable<DAL.Models.User>
+@{
+    ViewData["Title"] = "Account Management";
+}
+
+<h2>Account Management</h2>
+@{
+    var selectedStatus = ViewContext.HttpContext.Request.Query["isBanned"].ToString();
+    var keyword = ViewContext.HttpContext.Request.Query["keyword"].ToString();
+}
+<form method="get" style="margin-bottom: 20px;">
+    <input type="text" name="keyword" placeholder="Search by username, name, email" value="@keyword" />
+  
+    <select name="isBanned">
+        <option value="">All Status</option>
+        @if (selectedStatus == "false")
+        {
+            <option value="false" selected="selected">Active</option>
+        }
+        else
+        {
+            <option value="false">Active</option>
+        }
+        @if (selectedStatus == "true")
+        {
+            <option value="true" selected="selected">Banned</option>
+        }
+        else
+        {
+            <option value="true">Banned</option>
+        }
+    </select>
+
+    <button type="submit">Search</button>
+</form>
+
+
+<table class="account-table">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Status</th>
+            <th>Action</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.FullName</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+                <td>@(user.IsBanned == true ? "Banned" : "Active")</td>
+                <td>
+                    @if (user.IsBanned == true)
+                    {
+                        <form method="post" asp-action="Unban" asp-route-id="@user.UserId" style="display:inline">
+                            <button type="submit" class="unban-btn">Unban</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form method="post" asp-action="Ban" asp-route-id="@user.UserId" style="display:inline">
+                            <button type="submit" class="ban-btn">Ban</button>
+                        </form>
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Details", "Users", new { id = user.UserId })">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    .account-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+        font-size: 16px;
+        background: #fff;
+    }
+    .account-table th, .account-table td {
+        border: 1px solid #bbb;
+        padding: 8px 12px;
+        text-align: left;
+    }
+    .account-table th {
+        background: #ececec;
+    }
+    .ban-btn {
+        background: #f96d6d;
+        color: white;
+        border: none;
+        padding: 5px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .unban-btn {
+        background: #5dc27e;
+        color: white;
+        border: none;
+        padding: 5px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .ban-btn:hover, .unban-btn:hover {
+        opacity: 0.85;
+    }
+</style>

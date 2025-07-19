@@ -1,0 +1,42 @@
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\ref\DAL.dll

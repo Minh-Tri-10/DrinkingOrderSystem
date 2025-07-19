@@ -1,0 +1,65 @@
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\MVC.deps.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\MVC.runtimeconfig.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\appsettings.Development.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\appsettings.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\MVC.staticwebassets.runtime.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\MVC.exe
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\RazorPage.deps.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\RazorPage.runtimeconfig.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\RazorPage.staticwebassets.runtime.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\RazorPage.exe
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.runtimeconfig.json
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\DAL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\MVC.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\RazorPage.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\DAL.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\MVC.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\RazorPage.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.pdb
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
+D:\PRN222\Project\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.runtimeconfig.json
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
+C:\Users\truon\OneDrive\Desktop\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.runtimeconfig.json
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\ref\BLL.dll

@@ -1,0 +1,33 @@
+﻿@model DAL.Models.User
+@{
+    ViewData["Title"] = "Account Details";
+}
+
+<h2>Account Details</h2>
+
+<div class="details-container">
+    <p><b>Username:</b> @Model.Username</p>
+    <p><b>Full Name:</b> @Model.FullName</p>
+    <p><b>Email:</b> @Model.Email</p>
+    <p><b>Phone:</b> @Model.Phone</p>
+    <p><b>Role:</b> @Model.Role</p>
+    <p><b>Status:</b> @(Model.IsBanned == true ? "Banned" : "Active")</p>
+    <p><b>Created At:</b> @Model.CreatedAt?.ToString("yyyy-MM-dd")</p>
+    <a href="@Url.Action("Index")">Back to List</a>
+</div>
+
+<style>
+    .details-container {
+        background: #fafafa;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 16px 30px;
+        margin: 20px 0;
+        max-width: 400px;
+    }
+
+        .details-container p {
+            margin: 7px 0;
+            font-size: 17px;
+        }
+</style>

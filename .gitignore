@@ -1,0 +1,12 @@
+# Bỏ qua thư mục bin và obj (thư mục chứa các tệp biên dịch)
+bin/
+obj/
+
+# Bỏ qua các tệp log
+*.log
+
+# Bỏ qua thư mục Visual Studio
+.vs/
+
+# Bỏ qua các tệp tạm thời của editor
+.vscode/

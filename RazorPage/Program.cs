@@ -18,6 +18,11 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 
 // Service
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<ICartRepository, CartRepository>();
+builder.Services.AddScoped<ICartService, CartService>();
+builder.Services.AddScoped<IProductService, ProductService>();  // Add this line
+builder.Services.AddScoped<IProductRepository, ProductRepository>();        // Add this line
+
 
 var app = builder.Build();
 

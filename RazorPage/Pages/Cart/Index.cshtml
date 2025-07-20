@@ -1,0 +1,125 @@
+﻿@page
+@model RazorPage.Pages.Cart.IndexModel
+@{
+    ViewData["Title"] = "Giỏ hàng";
+}
+
+<h2 class="text-center mb-4 text-primary">Giỏ hàng của bạn</h2>
+
+@if (!Model.CartItems.Any())
+{
+    <div class="alert alert-warning text-center" role="alert">
+        Giỏ hàng của bạn hiện tại không có sản phẩm nào!
+    </div>
+}
+else
+{
+    <form method="post" asp-page-handler="UpdateCartItems">
+        <div class="cart-items-list">
+            @foreach (var item in Model.CartItems)
+            {
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body d-flex justify-content-between">
+                        <div class="d-flex">
+                            <div class="product-info">
+                                <h5 class="card-title">@item.Product.ProductName</h5>
+                                <p class="card-text">@item.Product.Description</p>
+                            </div>
+                        </div>
+
+                        <div class="d-flex flex-column align-items-end">
+                            <div class="price mb-3">
+                                <h6 class="mb-2">Giá: <strong>@item.Product.Price.ToString("N0")</strong></h6>
+                                <h6 class="mb-2">Thành tiền: <strong id="total-price-@item.CartItemId">@String.Format("{0:N0}", item.Product.Price * item.Quantity)</strong></h6>
+                            </div>
+
+                            <div class="quantity-selector d-flex align-items-center">
+                                <button type="button" class="btn btn-outline-secondary btn-sm" onclick="decreaseQuantity(@item.CartItemId)">-</button>
+                                <input type="number" id="quantity-@item.CartItemId" name="quantity-@item.CartItemId" value="@item.Quantity" min="1" class="form-control quantity-input" onchange="updateTotalPrice(@item.CartItemId)" />
+                                <button type="button" class="btn btn-outline-secondary btn-sm" onclick="increaseQuantity(@item.CartItemId)">+</button>
+                            </div>
+
+                            <div class="mt-2">
+                                <input type="checkbox" name="selectedItems" value="@item.CartItemId" /> Chọn sản phẩm
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <!-- Select All checkbox -->
+            <div class="d-flex justify-content-between mt-3">
+                <div>
+                    <input type="checkbox" id="selectAll" /> Chọn tất cả
+                </div>
+                <button type="submit" class="btn btn-success">Cập nhật giỏ hàng</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Display Total -->
+    <div class="total-container mt-3">
+        <div class="d-flex justify-content-between">
+            <h4 class="font-weight-bold">Tổng cộng:</h4>
+            <h4 class="font-weight-bold">@Model.Total.ToString("N0")</h4>
+        </div>
+    </div>
+
+    <!-- Payment Button -->
+    <div class="text-right mt-4">
+        <form method="post" asp-page-handler="OnPostPaymentAsync">
+            <button type="submit" class="btn btn-success btn-lg px-4">Thanh toán</button>
+        </form>
+    </div>
+}
+
+@section Scripts {
+    <script>
+        function decreaseQuantity(cartItemId) {
+            var input = document.getElementById('quantity-' + cartItemId);
+            if (input.value > 1) {
+                input.value = parseInt(input.value) - 1;
+            }
+        }
+
+        function increaseQuantity(cartItemId) {
+            var input = document.getElementById('quantity-' + cartItemId);
+            input.value = parseInt(input.value) + 1;
+        }
+
+        // Handle Select All functionality
+        document.getElementById('selectAll').addEventListener('change', function () {
+            var checkboxes = document.querySelectorAll('input[name="selectedItems"]');
+            checkboxes.forEach(function (checkbox) {
+                checkbox.checked = document.getElementById('selectAll').checked;
+            });
+        });
+    </script>
+}
+@section Style {
+    <style>
+        .quantity-selector {
+            display: flex;
+            align-items: center;
+        }
+
+        .quantity-input {
+            width: 50px; /* Giảm độ rộng ô nhập */
+            height: 30px; /* Đặt chiều cao ô nhập giống như nút cộng trừ */
+            text-align: center;
+            border: 1px solid #ced4da;
+            border-radius: 5px;
+            padding: 0;
+            margin: 0 5px;
+        }
+
+        .btn-sm {
+            width: 30px; /* Chiều rộng nút cộng trừ */
+            height: 30px; /* Chiều cao nút cộng trừ */
+            font-size: 18px; /* Giảm kích thước font trong nút */
+            padding: 0;
+            border-radius: 5px;
+        }
+
+     </style >
+}

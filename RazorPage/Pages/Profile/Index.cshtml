@@ -1,0 +1,45 @@
+﻿@page
+@model ProfileModel
+@{
+    ViewData["Title"] = "Quản lý Profile";
+}
+<h2 class="text-center mb-4 text-primary">Thông tin cá nhân</h2>
+
+@if (ViewData["Message"] != null)
+{
+    <div class="alert alert-success text-center">@ViewData["Message"]</div>
+}
+
+<form method="post">
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <div class="row mb-3">
+                <label for="fullName" class="col-sm-3 col-form-label">Họ tên</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="fullName" asp-for="CurrentUser.FullName" placeholder="Nhập họ tên" />
+                    <span asp-validation-for="CurrentUser.FullName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label for="email" class="col-sm-3 col-form-label">Email</label>
+                <div class="col-sm-9">
+                    <input type="email" class="form-control" id="email" asp-for="CurrentUser.Email" placeholder="Nhập email" />
+                    <span asp-validation-for="CurrentUser.Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label for="phone" class="col-sm-3 col-form-label">Số điện thoại</label>
+                <div class="col-sm-9">
+                    <input type="text" class="form-control" id="phone" asp-for="CurrentUser.Phone" placeholder="Nhập số điện thoại" />
+                    <span asp-validation-for="CurrentUser.Phone" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-end">
+                <button type="submit" class="btn btn-success px-4">Lưu thay đổi</button>
+            </div>
+        </div>
+    </div>
+</form>

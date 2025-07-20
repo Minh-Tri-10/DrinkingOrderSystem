@@ -3,80 +3,200 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\statistic\\revenuestatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\statistic\\revenuestatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\statistic\\productstatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\statistic\\productstatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\profile\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\profile\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\istatisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\istatisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\cart\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\cart\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\statistic\\productstatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\statistic\\productstatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\statistic\\revenuestatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\statistic\\revenuestatistic.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\data\\drinkorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\data\\drinkorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\istatisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\istatisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\istatisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\istatisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\statisticrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +205,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -101,22 +217,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -139,22 +239,6 @@
       "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\data\\drinkorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\data\\drinkorderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\istatisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\istatisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\dtos\\revenuestatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\revenuestatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -167,16 +251,8 @@
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\productstatisticdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -185,22 +261,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -215,20 +275,8 @@
       "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{02D75A7D-C800-4430-B642-3243F2053FE4}|RazorPage\\RazorPage.csproj|solutionrelative:razorpage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26F588AB-053E-4AB0-8CD6-2AF73CEC2A89}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -239,20 +287,8 @@
       "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\bll\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7703558B-CB8D-4D62-AE50-60EB9095FE96}|BLL\\BLL.csproj|solutionrelative:bll\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B94749F0-86A1-46C0-B5A2-41D9BE7B971D}|DAL\\DAL.csproj|c:\\users\\dell\\documents\\zalo received files\\drinkingordersystem(dos)\\drinkingordersystem(dos)\\dal\\repositories\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -274,7 +310,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 62,
+          "SelectedChildIndex": 55,
           "Children": [
             {
               "$type": "Bookmark",
@@ -422,10 +458,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1928210406:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
@@ -470,10 +502,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -505,342 +533,410 @@
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile\\Index.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T07:42:03.809Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Profile\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Profile\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:42:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IUserService.cs",
+              "RelativeToolTip": "BLL\\Services\\interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:34:02.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:35:07.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:37:19.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:36:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Program.cs",
               "RelativeDocumentMoniker": "RazorPage\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Program.cs",
               "RelativeToolTip": "RazorPage\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:17:51.658Z"
+              "WhenOpened": "2025-06-25T11:17:51.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T07:08:31.469Z"
+              "DocumentIndex": 7,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T12:14:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T13:13:09.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Cart\\Index.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T07:00:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductStatistic.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Statistic\\ProductStatistic.cshtml",
               "RelativeDocumentMoniker": "MVC\\Views\\Statistic\\ProductStatistic.cshtml",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Statistic\\ProductStatistic.cshtml",
               "RelativeToolTip": "MVC\\Views\\Statistic\\ProductStatistic.cshtml",
-              "ViewState": "AgIAABYBAAAAAAAAAAAswDUBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T14:18:36.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RevenueStatistic.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAswOAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T14:27:09.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:26:09.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:53:45.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Profile.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPage\\Pages\\Profile.cshtml.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile.cshtml.cs",
-              "RelativeToolTip": "RazorPage\\Pages\\Profile.cshtml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T07:42:07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile.cshtml",
-              "RelativeDocumentMoniker": "RazorPage\\Pages\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Profile.cshtml",
-              "RelativeToolTip": "RazorPage\\Pages\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T07:42:03.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:04:30.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Program.cs",
-              "RelativeDocumentMoniker": "MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Program.cs",
-              "RelativeToolTip": "MVC\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:11:23.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:05:04.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\OrderService.cs",
-              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:35:42.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IProductService.cs",
-              "RelativeToolTip": "BLL\\Services\\interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:34:11.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IOrderService.cs",
-              "RelativeToolTip": "BLL\\Services\\interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:34:40.571Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\ProductService.cs",
-              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:35:16.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IStatisticRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:40:40.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "DAL\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:04:57.716Z"
+              "WhenOpened": "2025-06-25T12:04:57.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:11:06.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Cart\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Cart\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Cart\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Cart\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:59:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:10:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:04:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:33:25.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IUserService.cs",
-              "RelativeToolTip": "BLL\\Services\\interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:34:02.254Z"
+              "WhenOpened": "2025-06-25T11:35:16.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAArAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:36:53.196Z"
+              "WhenOpened": "2025-06-25T11:34:11.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "StatisticRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\StatisticRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\StatisticRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\StatisticRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\StatisticRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:50:16.294Z"
+              "WhenOpened": "2025-06-25T12:05:04.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DAL\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:04:39.709Z"
+              "WhenOpened": "2025-06-25T13:33:41.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "StatisticService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\StatisticService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\StatisticService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\StatisticService.cs",
-              "RelativeToolTip": "BLL\\Services\\StatisticService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAQwA4AAAA6AAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:59:59.835Z"
+              "WhenOpened": "2025-06-25T11:35:42.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "RazorPage.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\RazorPage.csproj",
-              "RelativeDocumentMoniker": "RazorPage\\RazorPage.csproj",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\RazorPage.csproj",
-              "RelativeToolTip": "RazorPage\\RazorPage.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T12:12:03.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IOrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:05:08.575Z"
+              "WhenOpened": "2025-06-25T11:34:40.571Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:04:21.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\ICategoryService.cs",
               "RelativeToolTip": "BLL\\Services\\interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:34:20.111Z"
+              "WhenOpened": "2025-06-25T11:34:20.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\ICartService.cs",
+              "RelativeToolTip": "BLL\\Services\\interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:34:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\interfaces\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:04:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:08:31.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Cart.cs",
+              "RelativeToolTip": "DAL\\Models\\Cart.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:33:19.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:41:09.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\CartService.cs",
+              "RelativeToolTip": "BLL\\Services\\CartService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:35:33.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RevenueStatistic.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Statistic\\RevenueStatistic.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T14:27:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
@@ -852,7 +948,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\CartItem.cs",
+              "RelativeToolTip": "DAL\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:33:11.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Category.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Category.cs",
@@ -864,331 +972,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:35:07.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-19T06:51:35.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T06:52:29.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T06:50:59.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T06:50:52.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T06:41:58.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "StatisticController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\StatisticController.cs",
-              "RelativeDocumentMoniker": "MVC\\Controllers\\StatisticController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\StatisticController.cs",
-              "RelativeToolTip": "MVC\\Controllers\\StatisticController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T14:17:06.438Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\appsettings.json",
-              "RelativeToolTip": "MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-25T11:13:57.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
               "Title": "DrinkOrderDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Data\\DrinkOrderDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\Data\\DrinkOrderDbContext.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Data\\DrinkOrderDbContext.cs",
               "RelativeToolTip": "DAL\\Data\\DrinkOrderDbContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAnwCUAAACIAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T11:13:02.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IStatisticService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IStatisticService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IStatisticService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IStatisticService.cs",
-              "RelativeToolTip": "BLL\\Services\\interfaces\\IStatisticService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:59:02.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "RevenueStatisticDto.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\RevenueStatisticDto.cs",
-              "RelativeDocumentMoniker": "DAL\\DTOs\\RevenueStatisticDto.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\RevenueStatisticDto.cs",
-              "RelativeToolTip": "DAL\\DTOs\\RevenueStatisticDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:54:32.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ProductStockDto.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStockDto.cs",
-              "RelativeDocumentMoniker": "DAL\\DTOs\\ProductStockDto.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStockDto.cs",
-              "RelativeToolTip": "DAL\\DTOs\\ProductStockDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:54:30.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ProductStatisticDto.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStatisticDto.cs",
-              "RelativeDocumentMoniker": "DAL\\DTOs\\ProductStatisticDto.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStatisticDto.cs",
-              "RelativeToolTip": "DAL\\DTOs\\ProductStatisticDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:54:19.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\CartService.cs",
-              "RelativeToolTip": "BLL\\Services\\CartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:35:33.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IPaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IPaymentService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IPaymentService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IPaymentService.cs",
-              "RelativeToolTip": "BLL\\Services\\interfaces\\IPaymentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:34:51.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:37:19.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Cart.cs",
-              "RelativeToolTip": "DAL\\Models\\Cart.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:33:19.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\User.cs",
-              "RelativeToolTip": "DAL\\Models\\User.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:47:56.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "BLL.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T12:12:30.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\OrderItem.cs",
-              "RelativeToolTip": "DAL\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:33:41.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Product.cs",
-              "RelativeToolTip": "DAL\\Models\\Product.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:33:25.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\CartItem.cs",
-              "RelativeToolTip": "DAL\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:33:11.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Payment.cs",
-              "RelativeToolTip": "DAL\\Models\\Payment.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:33:04.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Order.cs",
-              "RelativeToolTip": "DAL\\Models\\Order.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:32:44.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 35,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "MVC\\Views\\Users\\Details.cshtml",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Details.cshtml",
               "RelativeToolTip": "MVC\\Views\\Users\\Details.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T13:11:12.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T12:27:27.009Z"
+              "DocumentIndex": 36,
+              "Title": "StatisticService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\StatisticService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StatisticService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\StatisticService.cs",
+              "RelativeToolTip": "BLL\\Services\\StatisticService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:59:59.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AgIAAAcAAAAAAAAAAABBwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T11:14:47.212Z"
+              "DocumentIndex": 37,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "RazorPage\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:05:19.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\appsettings.json",
               "RelativeDocumentMoniker": "RazorPage\\appsettings.json",
@@ -1200,19 +1032,370 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "MVC.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\MVC.csproj",
-              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\MVC.csproj",
-              "RelativeToolTip": "MVC\\MVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 39,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T06:25:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPage\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T06:25:56.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T11:13:57.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:11:23.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\StatisticController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:17:06.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:53:45.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:39:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IStatisticService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IStatisticService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IStatisticService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IStatisticService.cs",
+              "RelativeToolTip": "BLL\\Services\\interfaces\\IStatisticService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:59:02.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:26:09.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IStatisticRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IStatisticRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:40:40.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StatisticRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\StatisticRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\StatisticRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\StatisticRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\StatisticRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:50:16.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:04:39.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RazorPage.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\RazorPage.csproj",
+              "RelativeDocumentMoniker": "RazorPage\\RazorPage.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\RazorPage\\RazorPage.csproj",
+              "RelativeToolTip": "RazorPage\\RazorPage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T12:14:37.402Z"
+              "WhenOpened": "2025-06-25T12:12:03.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:05:08.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:04:21.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-19T06:51:35.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T06:52:29.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T06:50:59.389Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 58,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T06:50:52.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T06:41:58.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RevenueStatisticDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\RevenueStatisticDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\RevenueStatisticDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\RevenueStatisticDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\RevenueStatisticDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:54:32.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductStockDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStockDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\ProductStockDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStockDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\ProductStockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:54:30.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductStatisticDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStatisticDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\ProductStatisticDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DTOs\\ProductStatisticDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\ProductStatisticDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:54:19.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "BLL\\Services\\interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:34:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:47:56.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T12:12:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Payment.cs",
+              "RelativeToolTip": "DAL\\Models\\Payment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:33:04.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Models\\Order.cs",
+              "RelativeToolTip": "DAL\\Models\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:32:44.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T12:27:27.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T11:14:47.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
@@ -1224,42 +1407,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "BLL",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\BLL.csproj",
               "RelativeToolTip": "BLL\\BLL.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T11:22:31.271Z"
+              "WhenOpened": "2025-06-25T11:22:31.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\ICartService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\interfaces\\ICartService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\BLL\\Services\\interfaces\\ICartService.cs",
-              "RelativeToolTip": "BLL\\Services\\interfaces\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:34:30.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CartRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\CartRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\CartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T11:41:09.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 71,
               "Title": "PaymentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\PaymentRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\PaymentRepository.cs",
@@ -1271,19 +1431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "ICartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICartRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\ICartRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\ICartRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\interfaces\\ICartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:04:47.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 72,
               "Title": "IPaymentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\Repositories\\interfaces\\IPaymentRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\interfaces\\IPaymentRepository.cs",
@@ -1295,25 +1443,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 73,
               "Title": "MVC",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\MVC.csproj",
               "RelativeDocumentMoniker": "MVC\\MVC.csproj",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\MVC\\MVC.csproj",
               "RelativeToolTip": "MVC\\MVC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T11:22:40.335Z"
+              "WhenOpened": "2025-06-25T11:22:40.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 74,
               "Title": "DAL",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Drinkingordersystem(DOS)\\Drinkingordersystem(DOS)\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-25T11:22:35.808Z"
+              "WhenOpened": "2025-06-25T11:22:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
@@ -1384,10 +1558,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },

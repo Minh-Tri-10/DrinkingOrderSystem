@@ -63,3 +63,4 @@ C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingord
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.genruntimeconfig.cache
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\BLL\obj\Debug\net8.0\BLL.sourcelink.json

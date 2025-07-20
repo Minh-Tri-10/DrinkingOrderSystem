@@ -864,3 +864,4 @@ C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingord
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\MVC\obj\Debug\net8.0\MVC.pdb
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\MVC\obj\Debug\net8.0\ref\MVC.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\MVC\obj\Debug\net8.0\MVC.sourcelink.json

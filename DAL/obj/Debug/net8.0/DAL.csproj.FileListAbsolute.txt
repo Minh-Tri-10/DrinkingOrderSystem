@@ -40,3 +40,4 @@ C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingord
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Dell\Documents\Zalo Received Files\Drinkingordersystem(DOS)\Drinkingordersystem(DOS)\DAL\obj\Debug\net8.0\DAL.sourcelink.json
